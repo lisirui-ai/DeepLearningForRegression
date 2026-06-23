@@ -1,6 +1,8 @@
+<div align="center">
+  
 # DeepLearning For Regression With DNN
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Python-3.12%2B-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-2.12.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-13.2-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -9,10 +11,11 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
 </p>
 
-<p align="center">
+<p >
   基于 PyTorch 的深度学习回归实战系列<br/>
   以加州住房价格数据集为例，从基础 MLP 到自定义损失函数、自定义网络层，循序渐进掌握 DNN 回归任务核心技巧。
 </p>
+</div>
 
 ---
 
